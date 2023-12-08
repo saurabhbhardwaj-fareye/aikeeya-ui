@@ -1,0 +1,20 @@
+html,body {
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.g-btn {
+    font-size: 15px;
+    padding: 12px;
+    font-weight: 600;
+}
+
+.g-btn-link {
+    text-decoration: none;
+    padding: 11px;
+    font-weight: 600;
+    color: #474747;
+}
+.g-btn-link:hover {
+    color: #253544;
+}
